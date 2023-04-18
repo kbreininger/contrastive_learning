@@ -21,5 +21,6 @@ March 18, 2023
 * **Barlow Twins**: Zbontar J., Jing L., Misra I., LeCun Y., Deny S., Barlow Twins: Self-Supervised Learning via Redundancy Reduction. Proceedings of the International Conference on Machine Learning (ICML), 2021.
 * **SimSiam**: Chen X., He K., Exploring Simple Siamese Representation Learning. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021. 
 * **BYOL**: Grill J.-B., et al., Bootstrap your own latent: A new approach to self-supervised Learning. Advances in Neural Information Processing Systems 33 (NeurIPS), 2020.
+* Benchmarking 2022: Gwilliam M., Shrivastava A.: Beyond Supervised vs. Unsupervised: Representative Benchmarking and Analysis of Image Representation Learning, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022. [[abs]](https://arxiv.org/abs/2206.08347) 
 
 
