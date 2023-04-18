@@ -1,11 +1,11 @@
-# Contrastive learning
+# Contrastive Learning
 
 Katharina Breininger
 
 March 18, 2023
 
 ## Materials and further reading 
-* Lecture Slides
+* [Lecture Slides](2023-04-18-Slides_ContrastiveLearning.pdf)
 * [Chapter 15: Representation Learning](https://www.deeplearningbook.org/contents/representation.html) (Goodfellow, Bengio, Courville: Deep Learning, MIT Press, 2016) 
 * [Blog post](https://towardsdatascience.com/triplet-loss-advanced-intro-49a07b7d8905) on contrastive losses (nice visualizations)
 * [15-minute summary](https://youtu.be/u-X_nZRsn5M) of contrastive learning on YouTube
